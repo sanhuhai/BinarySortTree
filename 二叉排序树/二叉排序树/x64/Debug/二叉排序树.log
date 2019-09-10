@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\GitHub\Git\树\二叉排序树\二叉排序树\main.cpp(83): warning C4715:  “Tree::searchNode”: 不是所有的控件路径都返回值
+  二叉排序树.vcxproj -> G:\GitHub\Git\树\二叉排序树\二叉排序树\x64\Debug\二叉排序树.exe
